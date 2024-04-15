@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Parajuli</h1>
-<h3 align="center">A passionate forntend devrloper from Nepal</h3>
+<h3 align="center">A passionate Mern stack devrloper from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilparajuli4&label=Profile%20views&color=0e75b6&style=flat" alt="anilparajuli4" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@anilpar1943395" target="blank"><img src="https://img.shields.io/twitter/follow/@anilpar1943395?logo=twitter&style=for-the-badge" alt="@anilpar1943395" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Node js**
 
-- 💬 Ask me about **React js, javascript,**
+- 💬 Ask me about **React js, javascript, Next js, Node js, Typescript**
 
 - ⚡ Fun fact **I think I am funny**
 
